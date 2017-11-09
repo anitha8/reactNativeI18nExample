@@ -1,0 +1,1 @@
+# reactNativeI18nExample
